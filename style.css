@@ -92,7 +92,7 @@ body {
   color: black;
   background-color: #dfb9cd;
   width: 180px;
-  border:solid 4px ##dfb9cd;
+  border:solid 4px #dfb9cd;
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
 }
 
@@ -153,6 +153,50 @@ body {
   color: #dfb9cd;
   font-size:50px;
 }
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.card{
+  width: 300px;
+  margin: 50px;
+}
+
+.card img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+ 
+}
+
+.card-container{
+  padding:10px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.card a:link, .card a:visited {
+  
+  background-color: #df6158;
+  color: white;
+  padding: 6px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  
+}
+.card a:hover, .card a:active {
+  background-color: red;
+}
+
 
 /* about */
 .about_body{

@@ -50,12 +50,18 @@
 }
 
 .social_media{
-  opacity: 0.6;
+  opacity: 1;
 }
 
 .social_media:hover{
   opacity:1;
-  /*filter: drop-shadow(0 0 0.75rem #c665c8);*/
+  filter: drop-shadow(0 0 0.75rem #c665c8);
+}
+
+.social_media_box img{
+  height: 50px;
+  width: 50px;
+  margin: 15px;;
 }
 
 
@@ -214,5 +220,7 @@ body {
   color: #dfb9cd;
   font-size:50px;
 }
+
+
 
 

@@ -27,3 +27,12 @@
 - Profit 🤑💰
 
 ![](https://www.gifcen.com/wp-content/uploads/2022/04/bully-maguire-dancing-gif-2.gif)
+
+
+
+
+To do:
+- what do numbers mean
+- Move contents of body tag gallery code. 
+- keep 1 drawing A tag for for loop
+- Delete list of drawings and replace with for loop

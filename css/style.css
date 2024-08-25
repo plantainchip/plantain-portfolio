@@ -96,6 +96,7 @@ body {
 }
 
 .button {
+  font-size: 24px;
   color: black;
   background-color: #dfb9cd;
   width: 180px;

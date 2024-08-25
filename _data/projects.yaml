@@ -1,0 +1,16 @@
+- title: Toilet Quest
+  description: A short game about navigating through the woods to find a toilet.
+  thumbnail: /assets/tq.png
+  url: https://plantainchip.itch.io/toilet-quest-beta
+
+- title: Glen Cove Loop Bus Map
+  description: Interactive map that shows that Loop Bus stops in Glen Cove, NY
+  thumbnail: /assets/loop_bus.png
+  url: https://loopbus.maitri.me/
+  github: https://github.com/plantainchip/loop-bus
+
+- title: Drinkle
+  description: Contributed pixel art for a cocktail recipe app.
+  thumbnail: /assets/drinkle.png
+  url: https://drinkle.fizal.me/
+  github: https://github.com/fizal619/cocktail-app

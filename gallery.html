@@ -4,10 +4,33 @@ title: Gallery
 
 ---
 
-{%- for image in site.data.images -%}
-  <div class="image">
-    <img src="{{ image.url }}" alt="{{ image.title }}" />
-    <h3> {{ image.title }} </h3>
+
+
+
+
+
+
+<body class="gallery_body">
+  <a href="/" class="home_button"> ⌂ </a>
+  <h1 class="gallery_header"> Gallery </h1>
+  <div class="all_img">
+
+    <div id="lightgallery" maxcolwidth="200" gap="20" class=" flex center ninety-1000 fifty-900 thirty-300 demo">
+
+
+      {%- for image in site.data.gallery -%}
+
+      <a href="{{image.url}}{{image.ext}}">
+        <img class="grid-item" alt="{{image.title}}" src="{{image.url}}_thumb{{image.ext}}" />
+      </a>
+
+      {%- endfor -%}
+
+    </div>
+
   </div>
-  <br>
-{%- endfor -%}
+
+
+  
+
+</body>

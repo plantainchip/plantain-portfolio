@@ -71,6 +71,7 @@ body {
   /*background: #ece9e4*/
   background-image: url("/assets/bg_night.gif");
   background-position: center;
+  background-size: cover;
 }
 
 .container {
@@ -98,7 +99,7 @@ body {
   color: black;
   background-color: #dfb9cd;
   width: 180px;
-  border:solid 4px #dfb9cd;
+  border:solid 0px #dfb9cd;
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
 }
 

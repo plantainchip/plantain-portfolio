@@ -18,7 +18,7 @@
 ## Local Development
 - `gem install bundler`
 - `bundle install`
-- `bundle exec jekyll serve --incremental`
+- `bundle exec jekyll serve --incremental --livereload`
 
 ## Deploy
 - `git remote add origin <your empty repo clone url>`

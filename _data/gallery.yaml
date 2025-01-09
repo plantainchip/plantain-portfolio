@@ -1,170 +1,199 @@
 
+- url: /gallery/2025_0
+  ext: .png
+  title: Dark Clouds - 2025
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_5
+  ext: .png
+  title: Night - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_4
+  ext: .png
+  title: Darkness - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_3
+  ext: .png
+  title: Creature - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_2
+  ext: .png
+  title: Walk - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_1
+  ext: .png
+  title: Gloom - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2024_0
+  ext: .png
+  title: In Darkness - 2024
+  tags:
+    - Watercolor
+
+- url: /gallery/2023_3
+  ext: .png
+  title: Staring into waves - 2023
+  tags:
+    - Watercolor
+
+- url: /gallery/2023_2
+  ext: .png
+  title: Slugs say Hi - 2023
+  tags:
+    - Watercolor
+
+- url: /gallery/2023_1
+  ext: .png
+  title: Flip - 2023
+  tags:
+    - Watercolor
+
 - url: /gallery/2023_0
   ext: .png
-  title: Swirls
-  tags:
-    - digital
-
-- url: /gallery/2022_9
-  ext: .png
-  title: Profile Picture
+  title: Swirls - 2023
   tags:
     - digital
   
 - url: /gallery/2022_8
   ext: .png
-  title: Warning you. Please leave.
+  title: Pumpkin Patch - 2022
   tags:
-    - digital
+    - Watercolor
 
 - url: /gallery/2022_7
   ext: .png
-  title: Angels
+  title: Picture - 2022
   tags:
     - digital
-
+  
 - url: /gallery/2022_6
   ext: .png
-  title: Luffy Commission
+  title: Warning you. Please leave. - 2022
   tags:
     - digital
 
 - url: /gallery/2022_5
   ext: .png
-  title: Looking down
+  title: Angels - 2022
   tags:
     - digital
 
 - url: /gallery/2022_4
-  ext: .gif
-  title: Hair flowing in wind
+  ext: .png
+  title: Looking down - 2022
   tags:
     - digital
-    - animated
 
 - url: /gallery/2022_3
   ext: .gif
-  title: Fish earrings
+  title: Hair flowing in wind - 2022
   tags:
     - digital
     - animated
 
 - url: /gallery/2022_2
-  ext: .png
-  title: 80's style
+  ext: .gif
+  title: Fish earrings - 2022
   tags:
     - digital
+    - animated
 
 - url: /gallery/2022_1
-  ext: .gif
-  title: Rock Waves
+  ext: .png
+  title: 80's style - 2022
   tags:
     - digital
-    - animated
 
 - url: /gallery/2022_0
-  ext: .png
-  title: Cityscape
-  tags:
-    - digital
-
-- url: /gallery/2021_15
-  ext: .png
-  title: Tadpoles Under the Sunlight
-  tags:
-    - digital
-
-- url: /gallery/2021_14
   ext: .gif
-  title: Slug Eye
+  title: Rock Waves - 2022
   tags:
     - digital
     - animated
-
-- url: /gallery/2021_13
-  ext: .png
-  title: Holding Skull
-  tags:
-    - digital
-
-- url: /gallery/2021_12
-  ext: .png
-  title: Jolyne Leaning on Rail
-  tags:
-    - digital
 
 - url: /gallery/2021_11
   ext: .png
-  title: Holding a Head
+  title: Tadpoles Under the Sunlight - 2021
   tags:
     - digital
 
 - url: /gallery/2021_10
   ext: .gif
-  title: Hair in Wind
+  title: Slug Eye - 2021
   tags:
     - digital
     - animated
 
 - url: /gallery/2021_9
   ext: .png
-  title: In Field
+  title: Holding Skull - 2021
   tags:
     - digital
 
 - url: /gallery/2021_8
   ext: .png
-  title: Evening
+  title: Jolyne Leaning on Rail - 2021
   tags:
     - digital
 
 - url: /gallery/2021_7
-  ext: .gif
-  title: Cube Explosion
+  ext: .png
+  title: Holding a Head - 2021
   tags:
     - digital
-    - animated
 
 - url: /gallery/2021_6
   ext: .png
-  title: Cool Shades
+  title: In Field - 2021
   tags:
     - digital
 
 - url: /gallery/2021_5
+  ext: .png
+  title: Evening - 2021
+  tags:
+    - digital
+
+- url: /gallery/2021_4
   ext: .gif
-  title: Graveyard Cat
+  title: Cube Explosion - 2021
   tags:
     - digital
     - animated
 
-- url: /gallery/2021_4
-  ext: .png
-  title: Ghost Cat and its Bucket
-  tags:
-    - digital
-
 - url: /gallery/2021_3
   ext: .png
-  title: Forest Catnip
+  title: Cool Shades - 2021
   tags:
     - digital
 
 - url: /gallery/2021_2
-  ext: .png
-  title: Cat Forest Cemetary
+  ext: .gif
+  title: Ghost Cat  - 2021
   tags:
     - digital
+    - animated
 
 - url: /gallery/2021_1
   ext: .png
-  title: BOTW2 Link Fanart
+  title: Cat Forest Cemetary - 2021
   tags:
     - digital
   
 - url: /gallery/2021_0
   ext: .png
-  title: BOTW2 Teaser Fanart
+  title: BOTW2 Teaser Fanart - 2021
   tags:
     - digital
   

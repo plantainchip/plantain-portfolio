@@ -64,7 +64,7 @@ Then in your code editor when you're making your game,
 
         - uses: KikimoraGames/itch-publish@v0.0.3
           with:
-            butlerApiKey: ${{secrets.BUTLER_API_KEY}}
+            butlerApiKey: {% raw %} ${{secrets.BUTLER_API_KEY}} {% endraw %}
             gameData: ./game.zip
             itchUsername: 
             itchGameId: 
@@ -72,7 +72,7 @@ Then in your code editor when you're making your game,
 ```
 
 
-- replace BUTLER_API_KEY with the name of your key from your github secrets 
+- replace BUTLER_API_KEY with the name of your key from your github secrets.
 - make itchUsername your itch.io username
 - make itchGameId the last part of the url for your game's itch.io page. The id of the url is the stuff after the slash
 

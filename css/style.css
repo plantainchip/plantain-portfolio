@@ -226,3 +226,15 @@ body {
   color: #dfb9cd;
   font-size:50px;
 }
+
+
+/*blog table of contents page*/
+.posts{
+  background-position: center;
+  font-size:30px;
+}
+
+.date{
+  color: #a13870;
+}
+  

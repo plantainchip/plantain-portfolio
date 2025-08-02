@@ -5,7 +5,10 @@
 ## Prereq
 
 - `https://rvm.io/`
-- `rvm install ruby-3.0.2`
+- `sudo apt install gnupg2 openssl`
+- `rvm install ruby-3.4.5`
+
+- you dont need to do these next steps up until local development unless you're staring from scratch
 - `cd projects`
 - `git clone https://github.com/fizal619/jekyll_boilerplate.git`
 - `mv jekyll_boilerplate <your_folder_name>`

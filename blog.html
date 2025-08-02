@@ -1,0 +1,30 @@
+---
+layout: default
+title: Blog
+---
+
+<body class="gallery_body">
+    <a href="/" class="home_button"> ⌂ </a>
+    <h1 class="gallery_header"> Blog </h1>
+
+  
+    
+  <!-- <script>
+      lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+        download: false,
+        // put other options here
+      });
+    </script> -->
+
+    <div class="posts">
+        {% for post in site.posts %}
+          <div class="flex three">
+            <p class="date third">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <p class="two-third"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          </div>
+        {% endfor %}
+      </div>
+    
+  </body>

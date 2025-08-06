@@ -248,4 +248,10 @@ body {
 .date{
   color: #a13870;
 }
+
+.posts .date{
+  text-align: right;
+
+}
+
   

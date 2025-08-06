@@ -20,9 +20,9 @@ title: Blog
 
     <div class="posts">
         {% for post in site.posts %}
-          <div class="flex three">
-            <p class="date third">{{ post.date | date: "%b %-d, %Y" }}</p>
-            <p class="two-third"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <div class="flex six center">
+            <p class="date sixth">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <p class="half"><a href="{{ post.url }}">{{ post.title }}</a></p>
           </div>
         {% endfor %}
       </div>
